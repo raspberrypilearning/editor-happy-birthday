@@ -1,45 +1,15 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+## Introduction
 
-A brief description - one or two sentences. 
+In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
 
---- print-only ---
+### What you will make
 
-![ALT TEXT](images/IMAGE.png)
+Click the button to open the birthday card:
 
---- /print-only ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/happy-birthday-complete" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
---- no-print ---
+### Additional information for educators
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
---- /no-print ---
-
---- no-print ---
-
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
-
-### You will need:
-- a
-- b
-- c
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
