@@ -1,15 +1,13 @@
-## Introduction
+<h2 class="c-project-heading--task">What you will make</h2>
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+--- task ---
 
-### What you will make
+Make an interactive birthday card with HTML and CSS.
 
-Click the button to open the birthday card:
+--- /task ---
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/happy-birthday-complete" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+Try it out! Click **run** to open the birthday card.
 
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
-
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+<div class="c-project-output">
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-happy-birthday-complete" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>

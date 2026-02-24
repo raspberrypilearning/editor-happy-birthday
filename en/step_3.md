@@ -1,19 +1,48 @@
---- challenge ---
-## Challenge: add another paragraph
-- Can you add a third paragraph of text to your webpage, below the other two?
+<h2 class="c-project-heading--task">Change the image</h2>
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+--- task ---
 
-Here's how your webpage might look:
+Edit the HTML code for the robot image. Replace the word `robot` with `sun` to change the picture
 
+--- /task ---
 
-<div style="border: 1px solid black; font-family: Arial;">
-<p>Hi. My name is Franky.</p>
-<p>I like <b>running</b> and <i>riding my bike</i>.</p>
-<p>My birthday is on the 30th of June.</p>
+--- task ---
+
+Experiment with other images. Try `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` to make a Christmas card.
+
+--- /task ---
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can see all the images by clicking on the image gallery icon.
+
+![screenshot](images/ADD.png)
+
 </div>
 
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 13
+line_highlights: 17
+---
+      <p id="outside-title">
+        Happy Birthday 🎉🎂🎉🎁🎉
+      </p>
 
---- /challenge ---
+      <img id="outside-pic" src="sun.png">
+--- /code ---
+
+--- task ---
+
+Click **Run** to see the image change.
+
+--- /task ---
+</div>
+

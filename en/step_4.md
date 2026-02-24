@@ -1,69 +1,38 @@
-## What is CSS?
-
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
-
-This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 3
-line_highlights: 4
----
-  <head>
-    <link rel="stylesheet" href="style.css">
-  </head>
---- /code ---
-
-CSS lists all of the **properties** for a particular tag.
+<h2 class="c-project-heading--task">STEP TITLE</h2>
 
 --- task ---
 
-Click on the `style.css` file on the left to see the CSS code for your webpage.
-
-![screenshot](images/birthday-css-tab.png)
+BRIEF SUMMARY OF STEP - one line
 
 --- /task ---
 
+You can also edit the CSS code of the birthday card.
+
 --- task ---
 
-Find this code:
+Click on the file for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
+
+--- /task ---
+
+
+--- task ---
+
+Change the `background-color` to `lightgreen`.
 
 --- code ---
 ---
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 4
-line_highlights: 
+line_number_start: 1
+line_highlights: 4
 ---
-p {
-	color: black;
-}
---- /code ---
-
---- /task ---
-
-
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
-
---- task ---
-
-Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue, when you click on **Run**.
-
---- code ---
----
-language: css
-filename: style.css.html
-line_numbers: true
-line_number_start: 4
-line_highlights: 5
----
-p {
-  color: blue;  
-}
+#outside {
+  z-index: 1;
+  position: absolute;
+  background-color: lightgreen;
+  width: 100%;
+  height: 100%;
 --- /code ---
 
 --- /task ---
