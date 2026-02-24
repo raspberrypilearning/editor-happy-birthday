@@ -1,15 +1,35 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Font style</h2>
 
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Style the text with a different font and size.
 
 --- /task ---
 
+Tip = 
+CHECK WHERE TO ADD THIS
+You can use other fonts, for example:
+`arial`, `impact`or `tahoma`.
+
+find some fun fonts that work
+
+
 --- task ---
 
-The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
+Change the `font-family` to `Comic Sans MS` 
 
+give deails where to add this
+
+--- /task ---
+
+
+--- task ---
+
+You can make the font bigger by changing the `font-size` to `16pt`.
+
+--- /task ---
+
+<div class="c-project-output">
 --- code ---
 ---
 language: css
@@ -25,10 +45,9 @@ line_highlights: 18, 19
   text-align: center;
 }
 --- /code ---
+--- task ---
+
 
 --- /task ---
+</div>
 
-You can use other fonts, for example:
-+ `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
-+ `<span style="font-family: tahoma;">Tahoma</span>`
