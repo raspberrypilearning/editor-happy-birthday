@@ -2,7 +2,7 @@
 
 --- task ---
 
-Edit the code below with your own message.
+Add your own `birthday-greetings` by replacing the code with your own text.
 
 --- /task ---
 
@@ -14,10 +14,10 @@ Edit the code below with your own message.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 13
-line_highlights: 14
+line_number_start: 11
+line_highlights: 13
 ---
-      <p id="outside-title">
+      <p id="birthday-greetings">
         Happy Birthday 🎉🎂🎉🎁🎉
       </p>
 --- /code ---
@@ -34,6 +34,6 @@ Click **Run** and then the button on the front of the card, and check your new t
 
 ### Tip
 
-The `<p>` tag is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+The `<p>` tag is short for **paragraph**. You can start a paragraph with and end a paragraph with `</p>`.
 
 </div>
