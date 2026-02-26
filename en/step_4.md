@@ -14,11 +14,20 @@ Click on the file icon and select the `style.css` file.
 
 --- /task ---
 
+
 --- task ---
 
-Go to the `#pic` part of the CSS code. Change the `width` and `height` of the outside image to `200px` 
+`#pic` is an **id**, a unique name you give to an HTML element so that you can style in CSS.
 
 --- /task ---
+
+
+--- task ---
+
+Go to the `#pic` id in the CSS code. Change the `width` and `height` of the outside image to `200px` 
+
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -54,7 +63,6 @@ Click **Run** to see the new size. Keep playing with the size until you are happ
 `px` stands for pixels, which is the small squares that make up digital images.
 
 </div>
-
 
 
 

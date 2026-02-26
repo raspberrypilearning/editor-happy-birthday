@@ -38,6 +38,6 @@ Click **Run** and then the button on the front of the card, and check your new t
 
 ### Tip
 
-The `<p>` tag is short for **paragraph**. You can start a paragraph with and end a paragraph with `</p>`.
+A tag is the label like <p> or <img> that shows what type of media it is. The `<p>` tag is short for **paragraph**, and <img> is shourt for image.
 
 </div>
