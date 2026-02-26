@@ -9,7 +9,7 @@ Edit the HTML code for the image. Replace the word `rainbow` with `sun` to chang
 
 --- task ---
 
-You can see all the images by clicking on the image gallery icon.
+You can see all the images by clicking on the **image gallery** icon.
 
 ![screenshot](images/step3.png)
 
@@ -25,7 +25,7 @@ line_numbers: true
 line_number_start: 11
 line_highlights: 15
 ---
-      <p id="birthday-greetings">
+      <p id="birthday-greeting">
         Happy Birthday 🎉🎂🎉🎁🎉
       </p>
       

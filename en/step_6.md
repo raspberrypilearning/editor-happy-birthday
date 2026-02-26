@@ -19,16 +19,16 @@ You can make the font bigger by changing the `font-size` to `16pt`.
 
 --- /task ---
 
-<div class="c-project-output">
+<div class="c-project-code">
 --- code ---
 ---
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 16
-line_highlights: 18, 19
+line_number_start: 8
+line_highlights: 10-11
 ---
-#outside-title {
+#birthday-greeting {
   color: black;
   font-family: Comic Sans MS;
   font-size: 16pt;

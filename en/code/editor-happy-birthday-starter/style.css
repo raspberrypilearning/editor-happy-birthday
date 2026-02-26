@@ -1,13 +1,11 @@
 #card-background {
-  z-index: 1;
   position: absolute;
-  background-color: lightgreen;
   width: 100%;
   height: 100%;
   text-align: center;
 }
 
-#birthday-greetings {
+#birthday-greeting {
   color: blue;
   font-family: Arial;
   font-size: 30pt;

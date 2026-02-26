@@ -23,6 +23,7 @@ line_highlights: 4
 ---
 #card-background {
   position: absolute;
+  background-color: lightgreen;  
   width: 100%;
   height: 100%;
   text-align: center;
@@ -41,3 +42,10 @@ Click **Run** to see the background change. Experiment with adding other colours
 
 </div>
 
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+</div>

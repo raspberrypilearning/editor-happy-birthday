@@ -2,13 +2,13 @@
 
 --- task ---
 
-Change the size of the image with CSS code.
+Change the size of the image with **CSS** code.
 
 --- /task ---
 
 --- task ---
 
-Click on the file icon and go to the `style.css` file. 
+Click on the file icon and select the `style.css` file. 
 
 ![screenshot](images/step4.png)
 

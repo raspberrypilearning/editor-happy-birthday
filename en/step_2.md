@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add your own `birthday-greetings` by replacing the code with your own text.
+Add your own `birthday-greeting` by replacing the code with your own text.
 
 --- /task ---
 
@@ -15,7 +15,7 @@ line_numbers: true
 line_number_start: 11
 line_highlights: 12
 ---
-      <p id="birthday-greetings">
+      <p id="birthday-greeting">
         Happy Birthday 🎉🎂🎉🎁🎉
       </p>
 --- /code ---
