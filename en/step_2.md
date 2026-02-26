@@ -38,6 +38,6 @@ Click **Run** and then the button on the front of the card, and check your new t
 
 ### Tip
 
-A tag is the label like <p> or <img> that shows what type of media it is. The `<p>` tag is short for **paragraph**, and <img> is shourt for image.
+A tag is the label that shows what type of media it is. The `<p>` tag is short for **paragraph**, and `<img>` is short for **image**.
 
 </div>
