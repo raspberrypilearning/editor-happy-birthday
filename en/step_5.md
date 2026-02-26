@@ -21,12 +21,12 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 4
 ---
-#outside {
-  z-index: 1;
+#card-background {
   position: absolute;
-  background-color: lightgreen;
   width: 100%;
   height: 100%;
+  text-align: center;
+}
 --- /code ---
 --- task ---
 
@@ -35,4 +35,9 @@ Click **Run** to see the background change. Experiment with adding other colours
 --- /task ---
 </div>
 
-TIP - find colours 
+<div class="c-project-output">
+
+![screenshot](images/step5output.png)
+
+</div>
+

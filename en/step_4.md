@@ -10,13 +10,13 @@ Change the size of the image with CSS code.
 
 Click on the file icon and go to the `style.css` file. 
 
-![screenshot](images/ADD.png)
+![screenshot](images/step4.png)
 
 --- /task ---
 
 --- task ---
 
-Go to the `#outside-pic` part of the CSS code. Change the `width` and `height` of the outside image to `200px` 
+Go to the `#pic` part of the CSS code. Change the `width` and `height` of the outside image to `200px` 
 
 --- /task ---
 <div class="c-project-code">
@@ -25,10 +25,10 @@ Go to the `#outside-pic` part of the CSS code. Change the `width` and `height` o
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 23
-line_highlights: 24-25
+line_number_start: 15
+line_highlights: 16-17
 ---
-#outside-pic {
+#pic {
   width: 200px;
   height: 200px;
 }
@@ -41,6 +41,11 @@ Click **Run** to see the new size. Keep playing with the size until you are happ
 --- /task ---
 </div>
 
+<div class="c-project-output">
+
+![screenshot](images/step4output.png)
+
+</div>
 
 <div class="c-project-callout c-project-callout--tip">
 

@@ -6,22 +6,12 @@ Style the text with a different font and size.
 
 --- /task ---
 
-Tip = 
-CHECK WHERE TO ADD THIS
-You can use other fonts, for example:
-`arial`, `impact`or `tahoma`.
-
-find some fun fonts that work
-
 
 --- task ---
 
-Change the `font-family` to `Comic Sans MS` 
-
-give deails where to add this
+Change the `font-family` to `Comic Sans MS`. 
 
 --- /task ---
-
 
 --- task ---
 
@@ -47,7 +37,19 @@ line_highlights: 18, 19
 --- /code ---
 --- task ---
 
+Click **Run** and see the font change.
 
 --- /task ---
 </div>
 
+<div class="c-project-output">
+
+![screenshot](images/step6output.png)
+
+</div>
+
+--- task ---
+
+Try adding other fonts, for example: `arial`, `impact`or `tahoma`.
+
+--- /task ---
