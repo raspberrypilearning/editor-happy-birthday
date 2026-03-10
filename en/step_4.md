@@ -42,13 +42,13 @@ line_highlights: 16-17
   height: 200px;
 }
 --- /code ---
+</div>
 
 --- task ---
 
 Click **Run** to see the new size. Keep playing with the size until you are happy with how it looks.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 
@@ -63,6 +63,5 @@ Click **Run** to see the new size. Keep playing with the size until you are happ
 `px` stands for pixels, which is the small squares that make up digital images.
 
 </div>
-
 
 

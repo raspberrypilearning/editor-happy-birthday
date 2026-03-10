@@ -31,13 +31,13 @@ line_highlights: 15
       
       <img id="pic" src="sun.png">
 --- /code ---
+</div>
 
 --- task ---
 
 Click **Run** to see the image change.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 

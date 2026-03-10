@@ -35,12 +35,12 @@ line_highlights: 10-11
   text-align: center;
 }
 --- /code ---
+</div>
 --- task ---
 
 Click **Run** and see the font change.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 

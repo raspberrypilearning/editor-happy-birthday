@@ -19,13 +19,13 @@ line_highlights: 12
         Happy Birthday 🎉🎂🎉🎁🎉
       </p>
 --- /code ---
+</div>
 
 --- task ---
 
 Click **Run** and then the button on the front of the card, and check your new text is working. 
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 

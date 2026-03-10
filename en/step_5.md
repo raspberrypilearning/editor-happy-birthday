@@ -29,12 +29,12 @@ line_highlights: 4
   text-align: center;
 }
 --- /code ---
+</div>
 --- task ---
 
 Click **Run** to see the background change. Experiment with adding other colours.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 
