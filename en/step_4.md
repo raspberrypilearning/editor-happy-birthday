@@ -15,11 +15,6 @@ Click on the file icon and select the `style.css` file.
 --- /task ---
 
 
---- task ---
-
-`#pic` is an **id**, a unique name you give to an HTML element so that you can style in CSS.
-
---- /task ---
 
 
 --- task ---

@@ -15,6 +15,13 @@ You can see all the images by clicking on the **image gallery** icon.
 
 --- /task ---
 
+--- task ---
+
+Add the code below, and experiment with other images. For example, try `boy`, `rainbow`, `robot`, `present`, or `snowman`.
+
+--- /task ---
+
+
 
 <div class="c-project-code">
 --- code ---
@@ -45,8 +52,11 @@ Click **Run** to see the image change.
 
 </div>
 
---- task ---
+<div class="c-project-callout c-project-callout--tip">
 
-Experiment with other images. Try `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` to make a Christmas card.
+### Tip
 
---- /task ---
+`pic` is an **id**, a name you give to an HTML element so that you can style in CSS.
+
+</div>
+

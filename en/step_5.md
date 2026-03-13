@@ -19,7 +19,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 1
-line_highlights: 4
+line_highlights: 3
 ---
 #card-background {
   position: absolute;
