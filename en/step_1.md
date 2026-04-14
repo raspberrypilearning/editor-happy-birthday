@@ -1,13 +1,41 @@
-<h2 class="c-project-heading--task">What you will make</h2>
+<h2 class="c-project-heading--task">Birthday message</h2>
 
---- task ---
+### Step 1
 
-Make an interactive birthday card with HTML and CSS.
+Add your own `birthday-greeting` by replacing the code with your own text.
 
---- /task ---
 
-Try it out! Click **run** to open the birthday card.
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 11
+line_highlights: 12
+---
+      <p id="birthday-greeting">
+        Happy Birthday 🎉🎂🎉🎁🎉
+      </p>
+--- /code ---
+</div>
+
+### Step 2
+
+Click **Run** and then the button on the front of the card, and check your new text is working. 
+
 
 <div class="c-project-output">
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-happy-birthday-complete" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+
+![screenshot](images/step2output.png)
+
+</div>
+
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+A tag is the label that shows what type of media it is. The `<p>` tag is short for **paragraph**, and `<img>` is short for **image**.
+
 </div>

@@ -1,27 +1,14 @@
-<h2 class="c-project-heading--task">Resize images</h2>
+<h2 class="c-project-heading--task">Background colours</h2>
 
---- task ---
+### Step 1
 
-Change the size of the image with **CSS** code.
-
---- /task ---
-
---- task ---
-
-Click on the file icon and select the `style.css` file. 
-
-![screenshot](images/step4.png)
-
---- /task ---
+Experiment with colours for the background.
 
 
+### Step 2
 
+In the CSS file, change the `background-color` to `lightgreen`.
 
---- task ---
-
-Go to the `#pic` id in the CSS code. Change the `width` and `height` of the outside image to `200px` 
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -29,25 +16,26 @@ Go to the `#pic` id in the CSS code. Change the `width` and `height` of the outs
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 15
-line_highlights: 16-17
+line_number_start: 1
+line_highlights: 3
 ---
-#pic {
-  width: 200px;
-  height: 200px;
+#card-background {
+  position: absolute;
+  background-color: lightgreen;  
+  width: 100%;
+  height: 100%;
+  text-align: center;
 }
 --- /code ---
 </div>
+### Step 3
 
---- task ---
+Click **Run** to see the background change. Experiment with adding other colours.
 
-Click **Run** to see the new size. Keep playing with the size until you are happy with how it looks.
-
---- /task ---
 
 <div class="c-project-output">
 
-![screenshot](images/step4output.png)
+![screenshot](images/step5output.png)
 
 </div>
 
@@ -55,8 +43,6 @@ Click **Run** to see the new size. Keep playing with the size until you are happ
 
 ### Tip
 
-`px` stands for pixels, which is the small squares that make up digital images.
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 </div>
-
-

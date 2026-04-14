@@ -1,55 +1,21 @@
-<h2 class="c-project-heading--task">Font style</h2>
+<h2 class="c-project-heading--task">Challenges</h2>
 
---- task ---
+### Step 1
 
-Style the text with a different font and size.
-
---- /task ---
+Upgrade your card with more image and style!
 
 
---- task ---
+### Step 2
 
-Change the `font-family` to `Comic Sans MS`. 
+Personalise the message on the card.
 
---- /task ---
 
---- task ---
 
-You can make the font bigger by changing the `font-size` to `16pt`.
+### Step 3
 
---- /task ---
+Add smaller images. Make a new **id** so that you can style them differently to the main image.
 
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 8
-line_highlights: 10-11
----
-#birthday-greeting {
-  color: black;
-  font-family: Comic Sans MS;
-  font-size: 16pt;
-  text-align: center;
-}
---- /code ---
-</div>
---- task ---
 
-Click **Run** and see the font change.
+### Step 4
 
---- /task ---
-
-<div class="c-project-output">
-
-![screenshot](images/step6output.png)
-
-</div>
-
---- task ---
-
-Try adding other fonts, for example: `arial`, `impact`or `tahoma`.
-
---- /task ---
+Play around with colours in the CSS.

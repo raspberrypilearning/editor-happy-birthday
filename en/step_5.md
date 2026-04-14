@@ -1,16 +1,20 @@
-<h2 class="c-project-heading--task">Background colours</h2>
+<h2 class="c-project-heading--task">Font style</h2>
 
---- task ---
+### Step 1
 
-Experiment with colours for the background.
+Style the text with a different font and size.
 
---- /task ---
 
---- task ---
 
-In the CSS file, change the `background-color` to `lightgreen`.
+### Step 2
 
---- /task ---
+Change the `font-family` to `Comic Sans MS`. 
+
+
+### Step 3
+
+You can make the font bigger by changing the `font-size` to `16pt`.
+
 
 <div class="c-project-code">
 --- code ---
@@ -18,34 +22,28 @@ In the CSS file, change the `background-color` to `lightgreen`.
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 1
-line_highlights: 3
+line_number_start: 8
+line_highlights: 10-11
 ---
-#card-background {
-  position: absolute;
-  background-color: lightgreen;  
-  width: 100%;
-  height: 100%;
+#birthday-greeting {
+  color: black;
+  font-family: Comic Sans MS;
+  font-size: 16pt;
   text-align: center;
 }
 --- /code ---
 </div>
---- task ---
+### Step 4
 
-Click **Run** to see the background change. Experiment with adding other colours.
+Click **Run** and see the font change.
 
---- /task ---
 
 <div class="c-project-output">
 
-![screenshot](images/step5output.png)
+![screenshot](images/step6output.png)
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
+### Step 5
 
-### Tip
-
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
-
-</div>
+Try adding other fonts, for example: `arial`, `impact`or `tahoma`.

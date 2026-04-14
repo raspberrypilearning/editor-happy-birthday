@@ -1,54 +1,49 @@
-<h2 class="c-project-heading--task">Change the image</h2>
+<h2 class="c-project-heading--task">Resize images</h2>
 
---- task ---
+### Step 1
 
-Edit the HTML code for the image. Replace the word `rainbow` with `sun` to change the picture.
-
---- /task ---
+Change the size of the image with **CSS** code.
 
 
---- task ---
+### Step 2
 
-You can see all the images by clicking on the **image gallery** icon.
+Click on the file icon and select the `style.css` file. 
 
-![screenshot](images/step3.png)
+![screenshot](images/step4.png)
 
---- /task ---
 
---- task ---
 
-Add the code below, and experiment with other images. For example, try `boy`, `rainbow`, `robot`, `present`, or `snowman`.
 
---- /task ---
 
+### Step 3
+
+Go to the `#pic` id in the CSS code. Change the `width` and `height` of the outside image to `200px` 
 
 
 <div class="c-project-code">
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 11
-line_highlights: 15
+line_number_start: 15
+line_highlights: 16-17
 ---
-      <p id="birthday-greeting">
-        Happy Birthday 🎉🎂🎉🎁🎉
-      </p>
-      
-      <img id="pic" src="sun.png">
+#pic {
+  width: 200px;
+  height: 200px;
+}
 --- /code ---
 </div>
 
---- task ---
+### Step 4
 
-Click **Run** to see the image change.
+Click **Run** to see the new size. Keep playing with the size until you are happy with how it looks.
 
---- /task ---
 
 <div class="c-project-output">
 
-![screenshot](images/step3output.png)
+![screenshot](images/step4output.png)
 
 </div>
 
@@ -56,7 +51,6 @@ Click **Run** to see the image change.
 
 ### Tip
 
-`pic` is an **id**, a name you give to an HTML element so that you can style in CSS.
+`px` stands for pixels, which is the small squares that make up digital images.
 
 </div>
-
