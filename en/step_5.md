@@ -1,17 +1,14 @@
 <h2 class="c-project-heading--task">Font style</h2>
 
-### Step 1
-
 Style the text with a different font and size.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
 
-### Step 2
+Change the `font-family` to `Comic Sans MS`.
 
-Change the `font-family` to `Comic Sans MS`. 
-
-
-### Step 3
+## Step 2
 
 You can make the font bigger by changing the `font-size` to `16pt`.
 
@@ -33,7 +30,8 @@ line_highlights: 10-11
 }
 --- /code ---
 </div>
-### Step 4
+
+## Step 3
 
 Click **Run** and see the font change.
 
@@ -44,6 +42,10 @@ Click **Run** and see the font change.
 
 </div>
 
-### Step 5
+## Step 4
 
 Try adding other fonts, for example: `arial`, `impact`or `tahoma`.
+
+## Now run your code
+
+Confirm the observable result.

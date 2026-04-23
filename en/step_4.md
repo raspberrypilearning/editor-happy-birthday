@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Background colours</h2>
 
-### Step 1
-
 Experiment with colours for the background.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 In the CSS file, change the `background-color` to `lightgreen`.
 
@@ -28,7 +27,8 @@ line_highlights: 3
 }
 --- /code ---
 </div>
-### Step 3
+
+## Step 2
 
 Click **Run** to see the background change. Experiment with adding other colours.
 
@@ -39,10 +39,14 @@ Click **Run** to see the background change. Experiment with adding other colours
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

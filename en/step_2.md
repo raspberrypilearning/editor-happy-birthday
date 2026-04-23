@@ -1,19 +1,22 @@
 <h2 class="c-project-heading--task">Change the image</h2>
 
-### Step 1
+Edit the HTML code for the image.
 
-Edit the HTML code for the image. Replace the word `rainbow` with `sun` to change the picture.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
 
+Replace the word `rainbow` with `sun` to change the picture.
 
-### Step 2
+## Step 2
 
 You can see all the images by clicking on the **image gallery** icon.
 
+<div class="c-project-output">
 ![screenshot](images/step3.png)
+</div>
 
-
-### Step 3
+## Step 3
 
 Add the code below, and experiment with other images. For example, try `boy`, `rainbow`, `robot`, `present`, or `snowman`.
 
@@ -37,7 +40,7 @@ line_highlights: 15
 --- /code ---
 </div>
 
-### Step 4
+## Step 4
 
 Click **Run** to see the image change.
 
@@ -48,10 +51,14 @@ Click **Run** to see the image change.
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 `pic` is an **id**, a name you give to an HTML element so that you can style in CSS.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

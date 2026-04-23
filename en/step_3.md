@@ -1,21 +1,18 @@
 <h2 class="c-project-heading--task">Resize images</h2>
 
-### Step 1
-
 Change the size of the image with **CSS** code.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Click on the file icon and select the `style.css` file. 
 
+<div class="c-project-output">
 ![screenshot](images/step4.png)
+</div>
 
-
-
-
-
-### Step 3
+## Step 2
 
 Go to the `#pic` id in the CSS code. Change the `width` and `height` of the outside image to `200px` 
 
@@ -36,7 +33,7 @@ line_highlights: 16-17
 --- /code ---
 </div>
 
-### Step 4
+## Step 3
 
 Click **Run** to see the new size. Keep playing with the size until you are happy with how it looks.
 
@@ -47,10 +44,14 @@ Click **Run** to see the new size. Keep playing with the size until you are happ
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 `px` stands for pixels, which is the small squares that make up digital images.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
