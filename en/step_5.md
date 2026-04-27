@@ -48,4 +48,4 @@ Try adding other fonts, for example: `arial`, `impact`or `tahoma`.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the font on the card changes.

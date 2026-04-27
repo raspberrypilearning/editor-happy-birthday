@@ -43,4 +43,4 @@ A tag is the label that shows what type of media it is. The `<p>` tag is short f
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run**, then click the button on the front of the card, and check that your new text appears.

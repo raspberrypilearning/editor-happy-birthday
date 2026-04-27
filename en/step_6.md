@@ -18,4 +18,4 @@ Play around with colours in the CSS.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your personalised message, extra images, and colour changes all appear on the card.

@@ -54,4 +54,4 @@ Click **Run** to see the new size. Keep playing with the size until you are happ
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the image appears at the new size.
