@@ -1,0 +1,4 @@
+name: 'Happy Birthday Complete'
+identifier: 'editor-happy-birthday-complete'
+type: 'html'
+build: true

@@ -1,0 +1,4 @@
+name: 'Happy Birthday Starter'
+identifier: 'editor-happy-birthday-starter'
+type: 'html'
+build: true
