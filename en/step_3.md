@@ -2,8 +2,6 @@
 
 Change the size of the image with **CSS** code.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Click on the file icon and select the `style.css` file. 

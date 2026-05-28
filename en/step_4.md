@@ -2,8 +2,6 @@
 
 Experiment with colours for the background.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 In the CSS file, change the `background-color` to `lightgreen`.

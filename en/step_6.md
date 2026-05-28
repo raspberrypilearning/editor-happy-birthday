@@ -2,8 +2,6 @@
 
 Upgrade your card with more image and style!
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Personalise the message on the card.

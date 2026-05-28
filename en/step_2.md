@@ -2,8 +2,6 @@
 
 Edit the HTML code for the image.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Replace the word `rainbow` with `sun` to change the picture.
