@@ -21,7 +21,7 @@ line_highlights: 12
 
 ## Step 2
 
-Click **Run** and then the button on the front of the card, and check your new text is working. 
+Click **Run** and then the button on the front of the card, and check your new text is showing. 
 
 
 <div class="c-project-output">
