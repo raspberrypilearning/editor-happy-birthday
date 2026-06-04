@@ -53,7 +53,7 @@ Click **Run** to see the image change.
 
 <div class="c-project-callout c-project-callout--tip">
 
-`pic` is an **id**, a name you give to an HTML element so that you can style in CSS.
+`pic` is an **id**, a name you give to an HTML element so that you can style it in CSS.
 
 </div>
 
