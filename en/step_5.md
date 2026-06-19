@@ -42,7 +42,7 @@ Click **Run** and see the font change.
 
 ## Step 4
 
-Try adding other fonts, for example: `arial`, `impact`or `tahoma`.
+Try adding other fonts, for example: `arial`, `impact`, or `tahoma`.
 
 ## Now run your code
 

@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Challenges</h2>
 
-Upgrade your card with more image and style!
+Upgrade your card with more images and styles!
 
 ## Step 1
 
