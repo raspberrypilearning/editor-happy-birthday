@@ -19,9 +19,9 @@ line_highlights: 12
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and then the button on the front of the card, and check your new text is showing. 
+Click **Run**, then click the button on the front of the card, and check that your new text appears.
 
 
 <div class="c-project-output">
@@ -38,7 +38,3 @@ Click **Run** and then the button on the front of the card, and check your new t
 A tag is the label that shows what type of media it is. The `<p>` tag is short for **paragraph**, and `<img>` is short for **image**.
 
 </div>
-
-## Now run your code
-
-Click **Run**, then click the button on the front of the card, and check that your new text appears.
