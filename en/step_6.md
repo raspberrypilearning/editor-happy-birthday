@@ -1,18 +1,15 @@
-<h2 class="c-project-heading--task">Challenges</h2>
+## Challenges
 
 Upgrade your card with more images and styles!
 
-## Step 1
+> [!CHALLENGE]
+> Personalise the message on the card.
 
-Personalise the message on the card.
+> [!CHALLENGE]
+> Add smaller images. Make a new **id** so that you can style them differently to the main image.
 
-## Step 2
-
-Add smaller images. Make a new **id** so that you can style them differently to the main image.
-
-## Step 3
-
-Play around with colours in the CSS.
+> [!CHALLENGE]
+> Play around with colours in the CSS.
 
 ## Now run your code
 
