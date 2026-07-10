@@ -1,21 +1,10 @@
-<h2 class="c-project-heading--task">Background colours</h2>
+## Background colours
 
 Experiment with colours for the background.
 
-## Step 1
-
 In the CSS file, change the `background-color` to `lightgreen`.
 
-
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 1
-line_highlights: 3
----
+```css filename="style.css" line_numbers="true" line_number_start="1" line_highlights="3"
 #card-background {
   position: absolute;
   background-color: lightgreen;  
@@ -23,28 +12,13 @@ line_highlights: 3
   height: 100%;
   text-align: center;
 }
---- /code ---
-</div>
+```
 
-## Step 2
-
-Click **Run** to see the background change. Experiment with adding other colours.
-
-
-<div class="c-project-output">
-
-![screenshot](images/step5output.png)
-
-</div>
-
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
-
-</div>
+> [!TIP]
+> You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 ## Now run your code
 
 Click **Run** and check that the card background colour changes.
+
+![screenshot](images/step5output.png)
